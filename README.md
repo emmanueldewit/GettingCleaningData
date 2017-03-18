@@ -1,11 +1,11 @@
 # GettingCleaningData
 Course Project Coursera Getting and Cleaning Data
 
-# Introduction
+## Introduction
 
 This repo hosts the results for the Coursera Course Project Getting and Cleaning Data
 
-# Data
+## Data
 
 The data is taken from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
